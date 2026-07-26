@@ -1,0 +1,133 @@
+1.What is Data? (Definition & Real-World Examples)
+    Data is a collection of raw facts, observations, measurements, or values that represent something in the real world.
+    By itself, data usually has little meaning until it is processed, organized, and interpreted.
+
+Simple Definition:
+    Data is raw, unprocessed facts and figures collected from different sources.
+    Once data is analyzed, it becomes information, which helps people make decisions.
+ex:
+marks = shivasai , 18 
+marks = karthik , 12 
+numereical data ,Weather Data,Online Shopping (Amazon/Flipkart),Hospital
+
+!-----------------------------------------------------------------------------------------------------------------!
+
+2.Structured vs. Unstructured Data
+
+| Feature      | Structured Data                 | Unstructured Data                                     |
+| ------------ | ------------------------------- | ----------------------------------------------------- |
+| Organization | Organized into rows and columns | No fixed format                                       |
+| Schema       | Predefined schema               | No predefined schema                                  |
+| Storage      | SQL databases, Excel, CSV       | Files, cloud storage, NoSQL                           |
+| Querying     | Easy using SQL                  | Requires specialized tools (NLP, Computer Vision, AI) |
+| Analysis     | Simple and fast                 | More complex                                          |
+| Examples     | Sales records, student data     | Images, videos, emails, PDFs                          |
+
+1. Structured Data
+    Def:Structured data is data that is organized in a fixed format, usually in rows and columns. Each column has a
+    specific meaning, making it easy to store, search, and analyze.
+
+2. Unstructured Data
+    Def:Unstructured data is data that does not follow a predefined format or table structure.
+    It often contains text, images, audio, video, or other rich content.
+!-----------------------------------------------------------------------------------------------------------------!
+3.Metrics Explained
+What is a Metric?
+    A metric is a measurable value used to evaluate, monitor, and improve the performance of a 
+    process, business, system, or individual.
+
+    Simple Definition:A metric is a number that tells you how well something is performing.
+
+| Metric              |   Value |
+| ------------------- | ------: |
+| Total Sales         | $25,000 |
+| Orders              |     500 |
+| Customers           |     420 |
+| Average Order Value |     $50 |
+| Return Rate         |      2% |
+
+Why Are Metrics Important?
+
+    Metrics help organizations:
+
+    Measure performance
+    Track progress over time
+    Identify problems
+    Make data-driven decisions
+    Compare different products, teams, or time periods
+    Set goals and monitor improvement
+2. Data Analytics
+
+Common metrics include:
+    Average
+    Sum
+    Count
+    Maximum
+    Minimum
+    Median
+    Standard Deviation
+
+!-----------------------------------------------------------------------------------------------------------------!
+what is KPIs?
+
+a specific metrics that directly Measure progress toward a goal 
+
+Think of it this way:
+
+Data → Raw facts
+Metrics → Measurements calculated from data
+KPIs → The most important metrics tied to business goals
+
+| Metric              | KPI?              |
+| ------------------- | ----------------- |
+| Website Visitors    | ❌ Not necessarily |
+| Revenue             | ✅ Yes             |
+| Conversion Rate     | ✅ Yes             |
+| Likes on Instagram  | ❌ Usually No      |
+| Average Order Value | ✅ Yes             |
+
+ex :
+
+❌ Bad KPI:
+Increase sales.
+
+✅ Good KPI:
+Increase monthly sales revenue by 15% within the next 6 months.
+
+| Metric                               | KPI                                                 |
+| ------------------------------------ | --------------------------------------------------- |
+| Measures any aspect of performance   | Measures progress toward an important business goal |
+| Many metrics exist                   | Only a few metrics become KPIs                      |
+| General measurement                  | Strategic measurement                               |
+| May or may not affect business goals | Directly tied to business objectives                |
+
+how to choose a good API's
+
+ask Yourself
+i what's my goal 
+
+2. which metric best track progress towords that goal ?
+
+3. is this metric actionable 
+
+!-----------------------------------------------------------------------------------------------------------------!
+
+->Metrics help us understand 
+whats happening in our data 
+
+
+->KPIs show us whether 
+WHERE reaching our goals 
+
+!-----------------------------------------------------------------------------------------------------------------!
+KPI Examples by Industry
+
+| Industry      | Common KPIs                                         |
+| ------------- | --------------------------------------------------- |
+| E-commerce    | Revenue, Conversion Rate, Customer Retention        |
+| Banking       | Loan Approval Rate, Default Rate, Profit            |
+| Healthcare    | Patient Satisfaction, Recovery Rate                 |
+| Manufacturing | Production Efficiency, Defect Rate                  |
+| Education     | Graduation Rate, Student Attendance                 |
+| Marketing     | Click-Through Rate (CTR), Return on Ad Spend (ROAS) |
+| Software      | Monthly Active Users (MAU), Customer Churn, Uptime  |

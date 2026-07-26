@@ -1,1 +1,133 @@
-hello
+Module 1: Data Fundamentals
+
+What is Data? (Definition & Real-World Examples)
+Structured vs. Unstructured Data
+KPIs and Metrics Explained
+Introduction to Data Types
+File Types and Formats (CSV, XLSX, JSON, Parquet)
+Data Collection & ETL Pipelines
+Data Cleaning Cycle
+
+
+Module 2: MySQL (Beginner to Advanced)
+
+Installing MySQL and Setting up the Database
+The SELECT Statement & Math Operations
+Filtering Data with the WHERE Clause & LIKE Operator
+GROUP BY and ORDER BY Statements
+HAVING vs. WHERE Clauses
+LIMIT Clause and Aliasing
+Deep Dive into SQL Joins (Inner, Left, Right, Self)
+Combining Results with UNIONS
+Essential SQL String Functions
+Conditional Logic with CASE Statements
+Introduction to SQL Subqueries
+Window Functions (ROW_NUMBER, RANK, DENSE_RANK)
+Common Table Expressions (CTEs)
+Working with Temporary Tables
+Creating Stored Procedures
+Automating with Triggers and Events
+Project 1: SQL Data Cleaning Walkthrough
+Project 2: Exploratory Data Analysis (EDA) in SQL
+
+
+Module 3: Microsoft Excel
+
+Analyzing Data with Pivot Tables
+Master Formulas (IF, IFS, SUMIFS, COUNTIFS, etc.)
+VLOOKUP vs. XLOOKUP Deep Dive
+Visualizing Patterns with Conditional Formatting
+Creating and Customizing Charts
+Data Cleaning Techniques in Excel
+Project 3: Building an Interactive Excel Dashboard
+
+Module 4: Tableau
+
+Tableau UI & Creating Your First Visualization
+Bins and Calculated Fields
+Advanced Charts (Scatter Plots & Density Maps)
+Managing Data Connections and Joins
+Project 4: Airbnb Full Dashboard Project
+
+Module 5: Power BI
+
+Getting Started & Introduction to Power BI Desktop
+Transforming Data with Power Query
+Building Data Models and Relationships
+Introduction to DAX Formulas (Sum vs. SumX)
+Creating Hierarchies & Slicing Data (Drill Down)
+Conditional Formatting in Reports
+Grouping Data with Bins and Lists
+Dashboard Design & Visualizations Gallery
+Project 5: Data Professional Survey Dashboard
+
+Module 6: Python
+
+Setting Up Anaconda and Jupyter Notebooks
+Variables and Naming Conventions
+Python Data Types (Lists, Tuples, Sets, Dictionaries)
+Comparison, Logical, & Membership Operators
+Conditional Logic with If/Else Statements
+Iterating with For Loops
+Controlling Logic with While Loops
+Writing Custom Functions & Passing Arguments
+Converting Data Types (Type Casting)
+Project 6: Building a BMI Calculator
+Project 7: Creating an Automatic File Sorter
+
+Module 7: Python Web Scraping & Pandas
+
+HTML Basics for Web Scraping
+Introduction to BeautifulSoup and Requests Libraries
+Using Find and Find_All to Extract Data
+Project 8: Scraping Wikipedia Data into Pandas
+Reading and Writing Files in Pandas (CSV, Excel, JSON)
+Filtering and Sorting Pandas DataFrames
+Indexing and Multi-Indexing Data
+Grouping and Aggregating Data in Pandas
+Combining DataFrames (Merge, Join, Concat)
+Creating Plots directly in Pandas
+Real-World Data Cleaning with Pandas
+Exploratory Data Analysis (EDA) Techniques
+Project 9: Building an Amazon Price Tracker Scraper
+
+Module 8: Cloud Platforms (Azure, AWS, Databricks)
+
+
+Project 10: Automating Crypto API Data Ingestion
+Building and Hosting Your Portfolio Website on GitHub
+Resume Walkthrough & Review Tips
+Solving Easy SQL Technical Interview Questions
+Solving Medium SQL Technical Interview Questions
+Solving Hard SQL Technical Interview Questions
+Solving Very Hard SQL Technical Interview Questions
+Introduction to Microsoft Azure Cloud Services
+Managing Azure Blob Storage & Data Access
+Setting up SQL Databases in Azure Cloud
+Creating Pipelines with Azure Data Factory
+All-in-One Analytics with Azure Synapse
+Getting Started with AWS Cloud Platform
+Storing Data in AWS S3 Buckets
+Serverless Querying using Amazon Athena
+Data Engineering with AWS Glue and Data Brew
+Cloud Data Visualization with AWS QuickSight
+Introduction to the Databricks Lakehouse Platform
+Loading Data and Querying in Databricks
+Creating Dashboards in Databricks
+Utilizing Databricks AI Assistant and Genie
+
+Wrap Up
+
+Project 11: End-to-End Databricks ETL Pipeline Project
+Setting up R and RStudio Desktop
+Core Programming Basics in R
+Vector Operations & Expressions in R
+Reading and Writing Datasets in R
+Data Manipulation with the Dplyr Package
+Advanced Grouping and Aggregating in R
+Data Quality & Missing Value Imputation
+Working with Dates via the Lubridate Package
+Deduplication and Removing Overlapping Data
+Project 12: Data Visualization & Flex Dashboard Reports in R
+Maximizing Your LinkedIn Profile for Job Hunting
+Bootcamp Certification & Graduation Notes
