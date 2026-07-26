@@ -68,7 +68,7 @@ Common metrics include:
     Standard Deviation
 
 !-----------------------------------------------------------------------------------------------------------------!
-what is KPIs?
+what is KPIs?(Key Performance Indicator)
 
 a specific metrics that directly Measure progress toward a goal 
 
