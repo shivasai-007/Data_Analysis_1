@@ -1,0 +1,32 @@
+Data Analytics Brief Notes
+1. Data
+Raw facts and figures. After processing, data becomes information.
+2. Structured vs Unstructured Data
+Structured: rows/columns, SQL, CSV, Excel. Unstructured: images, videos, emails,
+PDFs, social media. Structured is easy to query; unstructured often needs AI/NLP.
+3. Metrics
+Measurable values showing performance (Revenue, Sales, Average, Conversion Rate).
+Metrics summarize raw data.
+4. KPIs
+Key Performance Indicators are the most important metrics tied to business goals.
+Every KPI is a metric, but not every metric is a KPI.
+5. File Formats
+CSV: simple tabular text.
+XLSX: Excel workbook with formulas/charts.
+JSON: key-value, nested data, APIs.
+Parquet: compressed columnar format for big data and analytics.
+6. Data Collection
+Process of gathering raw data from surveys, databases, APIs, sensors, web scraping,
+and transaction systems. Can be Primary (first-hand) or Secondary (existing data).
+7. Data Cleaning Cycle
+Inspect Data → Identify Issues → Clean Data → Validate → Analyze/Store → Continuous
+Monitoring.
+Common issues: missing values, duplicates, wrong data types, inconsistent formats,
+typos, outliers.
+Quick Interview Points
+• Data = Raw facts
+• Information = Processed data
+• Metric = Performance measurement
+• KPI = Metric linked to a business goal
+• CSV/XLSX/JSON/Parquet are common data formats
+• Clean data is essential for accurate analysis (GIGO: Garbage In, Garbage Out)
