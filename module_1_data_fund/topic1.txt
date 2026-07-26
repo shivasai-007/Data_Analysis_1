@@ -131,3 +131,14 @@ KPI Examples by Industry
 | Education     | Graduation Rate, Student Attendance                 |
 | Marketing     | Click-Through Rate (CTR), Return on Ad Spend (ROAS) |
 | Software      | Monthly Active Users (MAU), Customer Churn, Uptime  |
+
+
+Key Takeaways
+KPIs are the most important metrics for measuring success against business goals.
+Every KPI is a metric, but not every metric is a KPI.
+KPIs should be SMART: Specific, Measurable, Achievable, Relevant, and Time-bound.
+Data Analysts regularly calculate, monitor, and visualize KPIs using Excel, SQL, Python, Power BI, and Tableau.
+In interviews, remember this simple distinction:
+Data = Raw facts
+Metric = Measurement
+KPI = Measurement that directly tracks an important business objective
