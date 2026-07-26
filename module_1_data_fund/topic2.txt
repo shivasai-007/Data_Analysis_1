@@ -1,0 +1,125 @@
+Introduction to Data Types:
+
+what are data Type'sales
+
+a datatpe is an attribute associated with a Price of data 
+that tells a computer system how to interpreat its value 
+
+every programming language and databases has simlilar but 
+slightly different data types 
+
+        dataTypes 
+        /  |  \
+       /   |   \
+String  number  date/time 
+
+understanding dataTypes is important become they determine 
+how you can process and analyze 
+
+for example 
+- you can calculate Average with numereical dataTypes
+- you can group or count occerence with categorical 
+(string) dataTypes
+!-----------------------------------------------------------------------------------------------------------------!
+
+File Types and Formats (CSV, XLSX, JSON, Parquet)
+
+what are file types ?
+
+- file types refer to Formats in which data is Stored in a file 
+- each file type is designed for specific purpose ,dependig on    
+this kind of data it holds and how it will be processd or shared 
+
+| Feature                  | CSV            | XLSX                 | JSON               | Parquet              |
+| ------------------------ | -------------- | -----------------    | ------------------ | -------------------- |
+| File Extension           | .csv           | .xlsx                | .json              | .parquet             |
+| Data Structure           | Rows & Columns | Spreadsheet          | Key-Value / Nested | Columnar Binary      |
+| Human Readable           | ✅ Yes          | ✅ Yes (via Excel) | ✅ Yes             | ❌ No                 |
+| Supports Multiple Sheets | ❌ No           | ✅ Yes             | ❌ No              | ❌ No                 |
+| Supports Formatting      | ❌ No           | ✅ Yes             | ❌ No              | ❌ No                 |
+| Supports Nested Data     | ❌ No           | ❌ No              | ✅ Yes             | ✅ Yes                |
+| File Size                | Small          | Medium               | Medium-Large       | Very Small           |
+| Reading Speed            | Fast           | Moderate             | Moderate           | Very Fast            |
+| Best For                 | Data exchange  | Reports              | APIs               | Big Data & Analytics |
+ 
+!-----------------------------------------------------------------------------------------------------------------!
+
+What is Data Collection?
+Definition
+Data collection is the process of gathering, measuring, and recording information from various sources to answer 
+questions, solve problems, or support decision-making.
+
+Simple Def:
+Data collection is the process of gathering raw data from different sources for analysis.
+
+Why is Data Collection Important?
+
+Imagine you want to analyze customer purchasing behavior.
+
+If your data is:
+
+❌ Incomplete
+❌ Incorrect
+❌ Outdated
+
+Then your analysis will also be inaccurate.
+
+This is why people say:
+
+"Garbage In, Garbage Out (GIGO)."
+
+Poor-quality data leads to poor-quality insights.
+
+
+| Method              | Example                                 |
+| ------------------- | --------------------------------------- |
+| Surveys             | Customer satisfaction form              |
+| Interviews          | HR interviews employees                 |
+| Observation         | Monitoring shoppers in a store          |
+| Sensors             | Temperature, GPS, IoT devices           |
+| Transaction Systems | Online purchases                        |
+| Web Scraping        | Collecting product prices from websites |
+| APIs                | Weather, stock market, payment services |
+| Log Files           | Website visitor activity                |
+
+
+3. Name some common sources of data.
+Databases
+APIs
+Surveys
+IoT sensors
+Transaction systems
+Web scraping
+Public datasets
+Government reports
+
+!-----------------------------------------------------------------------------------------------------------------!
+Data Cleaning Cycle
+
+Data cleaning (also called Data Cleansing or Data Preprocessing) is the process of detecting and correcting errors, 
+inconsistencies, and inaccuracies in raw data before analysis.
+
+Simple Definition:
+Data cleaning is the process of making raw data accurate, complete, and consistent so it can be used for analysis.
+
+
+Raw Data
+    │
+    ▼
+1. Inspect Data
+    │
+    ▼
+2. Identify Issues
+    │
+    ▼
+3. Clean the Data
+    │
+    ▼
+4. Validate the Data
+    │
+    ▼
+5. Analyze / Store Clean Data
+    │
+    ▼
+Continuous Monitoring
+
